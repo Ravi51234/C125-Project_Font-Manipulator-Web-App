@@ -1,0 +1,21 @@
+.heading{
+    text-align:center;
+    width:100%;
+}
+
+.footer{
+    background-color: grey;
+    color:white;
+    font-family:monospace;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    line-height:3;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius:20px;
+    box-shadow:6px 6px 6px grey;
+}
